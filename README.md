@@ -31,7 +31,7 @@ Technologies Used
 
 How to Use
 
-1. Clone the repository:git clone https://github.com/your-username/pricing-component.git.
+1. Clone the repository:[git clone https://github.com/your-username/pricing-component.git.](https://github.com/Sefat-Khan/pricing-component-with-toggle-master-2.git).
 2. Open the index.html file in a web browser.
 3. Explore the pricing component and toggle between monthly and annual plans.
 
